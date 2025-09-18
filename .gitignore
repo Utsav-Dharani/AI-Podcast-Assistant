@@ -1,0 +1,7 @@
+# Python
+__pycache__/
+*.pyc
+
+# Envs & local config
+.env
+.env.*
